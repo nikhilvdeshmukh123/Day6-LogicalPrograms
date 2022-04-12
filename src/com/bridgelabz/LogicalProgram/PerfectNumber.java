@@ -15,6 +15,7 @@ import java.util.Scanner;
 public class PerfectNumber {
 	public static void perfectNum(int num) {
 		int sum = 0;
+		//Checking condition for Perfect Number
 		for (int i = 1; i < num; i++) {
 			if (num % i == 0) {
 				sum = sum + i;
