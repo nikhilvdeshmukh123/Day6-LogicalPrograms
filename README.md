@@ -1,1 +1,1 @@
-#Demo
+# Day6-LogicalPrograms
