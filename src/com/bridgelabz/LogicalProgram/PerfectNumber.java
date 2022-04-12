@@ -5,7 +5,7 @@ import java.util.Scanner;
 /* 
  *@author Nikhil 
  *
- * Program for perfect numrs
+ * Program for perfect Number
  * When the number is equal to the sum of its positive divisors
  * excluding the number, it is called a Perfect Number.
  * The divisors of 28 are 1, 2, 4, 7, and 14. So,
